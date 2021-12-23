@@ -25,8 +25,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Slicing design landing page using Laaravel<br>
 <img src="public/assets/img-readme/ss(1).png" width="250">
 <img src="public/assets/img-readme/ss(2).png" width="250">
-<img src="public/assets/img-readme/ss(3).png" width="250">
-<img src="public/assets/img-readme/ss(4).png" width="250">
+<img src="public/assets/img-readme/ss(3).png">
+<img src="public/assets/img-readme/ss(4).png">
 
 
 
