@@ -22,7 +22,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Result this Project
-Slicing design landing page using Laaravel
+Slicing design landing page using Laaravel<br>
 <img src="public/assets/img-readme/ss(1).png" width="250">
 <img src="public/assets/img-readme/ss(2).png" width="250">
 <img src="public/assets/img-readme/ss(3).png" width="250">
